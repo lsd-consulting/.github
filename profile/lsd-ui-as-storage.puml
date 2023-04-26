@@ -1,0 +1,46 @@
+@startuml
+
+!theme lsd-light from https://cdn.jsdelivr.net/gh/lsd-consulting/lsd-core@3/src/main/resources/static/
+!pragma layout smetana
+
+skinparam backgroundColor transparent
+
+hide unlinked
+
+title Visualising system communication #2
+
+node "First Service" {
+  [Service A]
+  [Output\nInterceptors] as AOutputInterceptors
+}
+
+
+node "Second Service" {
+  [B Input\nInterceptors] -down-> [Service B]
+}
+node "Lsd UI" {
+}
+
+note bottom of "Lsd UI"
+ Interactions are sent
+ to lsd-ui instead of the db
+end note
+
+database "Lsd Storage" {
+'  [MongoDB or Postgres] as lsdstorage
+}
+
+note bottom of "Lsd Storage"
+ Only lsd-ui connects to
+ persistent storage
+end note
+
+
+[Service A] -right-> AOutputInterceptors
+AOutputInterceptors -right-> [B Input\nInterceptors]: Request
+
+AOutputInterceptors -[dotted]down-> "Lsd UI":Http
+[B Input\nInterceptors] -[dotted]down-> "Lsd UI": Http
+
+"Lsd UI" --> "Lsd Storage"
+@enduml

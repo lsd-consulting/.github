@@ -1,0 +1,47 @@
+@startuml
+
+!theme lsd-light from https://cdn.jsdelivr.net/gh/lsd-consulting/lsd-core@3/src/main/resources/static/
+!pragma layout smetana
+
+skinparam backgroundColor transparent
+
+hide unlinked
+
+title Visualising system communication #1
+
+node "First Service" {
+  [Service A]
+  [Output\nInterceptors] as AOutputInterceptors
+}
+
+
+node "Second Service" {
+  [B Input\nInterceptors] -down-> [Service B]
+}
+node "Lsd UI" {
+}
+
+note bottom of "Lsd UI"
+ 2. Intercepted interactions
+ form flows that can be
+ visualised in LSDs
+end note
+
+database "Lsd Storage" {
+'  [MongoDB or Postgres] as lsdstorage
+}
+
+note bottom of "Lsd Storage"
+ 1. Interceptors persist
+ captured interactions
+end note
+
+
+[Service A] -right-> AOutputInterceptors
+AOutputInterceptors -right-> [B Input\nInterceptors]: Request
+
+AOutputInterceptors -[dotted]down-> "Lsd Storage"
+[B Input\nInterceptors] -[dotted]down-> "Lsd Storage"
+
+"Lsd Storage" --> "Lsd UI"
+@enduml
