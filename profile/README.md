@@ -55,7 +55,7 @@
 [![GitHub release](https://img.shields.io/github/release/lsd-consulting/lsd-logging-library)](https://github.com/lsd-consulting/lsd-logging-library/releases)
 ![Maven](https://img.shields.io/maven-central/v/io.github.lsd-consulting/lsd-logging-library)
 ![Codecov](https://img.shields.io/codecov/c/github/lsd-consulting/lsd-logging-library)
-[![PRs](https://img.shields.io/github/issues-pr/lsd-consulting/lsd-formatting-library?label=PRs)](https://github.com/lsd-consulting/lsd-formatting-library/pulls)                                                                                                                                 
+[![PRs](https://img.shields.io/github/issues-pr/lsd-consulting/lsd-logging-library?label=PRs)](https://github.com/lsd-consulting/lsd-logging-library/pulls)                                                                                                                                 
 
 ---
 
