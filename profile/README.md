@@ -115,7 +115,14 @@
 [![GitHub release](https://img.shields.io/github/release/lsd-consulting/lsd-distributed-postgres-connector)](https://github.com/lsd-consulting/lsd-distributed-postgres-connector/releases)
 [![Maven](https://img.shields.io/maven-central/v/io.github.lsd-consulting/lsd-distributed-postgres-connector)](https://search.maven.org/search?q=g:%22io.github.lsd-consulting%22%20AND%20a:%22lsd-distributed-postgres-connector%22)
 ![Codecov](https://img.shields.io/codecov/c/github/lsd-consulting/lsd-distributed-postgres-connector)
-[![PRs](https://img.shields.io/github/issues-pr/lsd-consulting/lsd-distributed-postgres-connector?label=PRs)](https://github.com/lsd-consulting/lsd-distributed-postgres-connector/pulls)                                                                             
+[![PRs](https://img.shields.io/github/issues-pr/lsd-consulting/lsd-distributed-postgres-connector?label=PRs)](https://github.com/lsd-consulting/lsd-distributed-postgres-connector/pulls)                                         
+##### [lsd-distributed-firestore-connector](https://github.com/lsd-consulting/lsd-distributed-firestore-connector)
+[![CI](https://github.com/lsd-consulting/lsd-distributed-firestore-connector/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/lsd-consulting/lsd-distributed-firestore-connector/actions/workflows/ci.yml)
+[![Nightly Build](https://github.com/lsd-consulting/lsd-distributed-firestore-connector/actions/workflows/nightly.yml/badge.svg?branch=main)](https://github.com/lsd-consulting/lsd-distributed-firestore-connector/actions/workflows/nightly.yml)
+[![GitHub release](https://img.shields.io/github/release/lsd-consulting/lsd-distributed-firestore-connector)](https://github.com/lsd-consulting/lsd-distributed-firestore-connector/releases)
+[![Maven](https://img.shields.io/maven-central/v/io.github.lsd-consulting/lsd-distributed-firestore-connector)](https://search.maven.org/search?q=g:%22io.github.lsd-consulting%22%20AND%20a:%22lsd-distributed-firestore-connector%22)
+![Codecov](https://img.shields.io/codecov/c/github/lsd-consulting/lsd-distributed-firestore-connector)
+[![PRs](https://img.shields.io/github/issues-pr/lsd-consulting/lsd-distributed-firestore-connector?label=PRs)](https://github.com/lsd-consulting/lsd-distributed-firestore-connector/pulls)                                                                           
 
 
 ---
