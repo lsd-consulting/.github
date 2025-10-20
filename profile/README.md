@@ -55,7 +55,15 @@
 [![GitHub release](https://img.shields.io/github/release/lsd-consulting/lsd-logging-library)](https://github.com/lsd-consulting/lsd-logging-library/releases)
 ![Maven](https://img.shields.io/maven-central/v/io.github.lsd-consulting/lsd-logging-library)
 ![Codecov](https://img.shields.io/codecov/c/github/lsd-consulting/lsd-logging-library)
-[![PRs](https://img.shields.io/github/issues-pr/lsd-consulting/lsd-logging-library?label=PRs)](https://github.com/lsd-consulting/lsd-logging-library/pulls)                                                                                                                                 
+[![PRs](https://img.shields.io/github/issues-pr/lsd-consulting/lsd-logging-library?label=PRs)](https://github.com/lsd-consulting/lsd-logging-library/pulls)
+
+##### [lsd-kotlin-conventions](https://github.com/lsd-consulting/lsd-kotlin-conventions)
+[![CI](https://github.com/lsd-consulting/lsd-kotlin-conventions/actions/workflows/ci.yml/badge.svg)](https://github.com/lsd-consulting/lsd-kotlin-conventions/actions/workflows/ci.yml)
+[![Nightly](https://github.com/lsd-consulting/lsd-kotlin-conventions/actions/workflows/nightly.yml/badge.svg?branch=main)](https://github.com/lsd-consulting/lsd-kotlin-conventions/actions/workflows/nightly.yml)
+[![GitHub release](https://img.shields.io/github/release/lsd-consulting/lsd-kotlin-conventions)](https://github.com/lsd-consulting/lsd-kotlin-conventions/releases)
+![Maven](https://img.shields.io/maven-central/v/io.github.lsd-consulting/lsd-kotlin-conventions)
+![Codecov](https://img.shields.io/codecov/c/github/lsd-consulting/lsd-kotlin-conventions)
+[![PRs](https://img.shields.io/github/issues-pr/lsd-consulting/lsd-kotlin-conventions?label=PRs)](https://github.com/lsd-consulting/lsd-kotlin-conventions/pulls)
 
 ---
 
@@ -122,7 +130,23 @@
 [![GitHub release](https://img.shields.io/github/release/lsd-consulting/lsd-distributed-firestore-connector)](https://github.com/lsd-consulting/lsd-distributed-firestore-connector/releases)
 [![Maven](https://img.shields.io/maven-central/v/io.github.lsd-consulting/lsd-distributed-firestore-connector)](https://search.maven.org/search?q=g:%22io.github.lsd-consulting%22%20AND%20a:%22lsd-distributed-firestore-connector%22)
 ![Codecov](https://img.shields.io/codecov/c/github/lsd-consulting/lsd-distributed-firestore-connector)
-[![PRs](https://img.shields.io/github/issues-pr/lsd-consulting/lsd-distributed-firestore-connector?label=PRs)](https://github.com/lsd-consulting/lsd-distributed-firestore-connector/pulls)                                                                           
+[![PRs](https://img.shields.io/github/issues-pr/lsd-consulting/lsd-distributed-firestore-connector?label=PRs)](https://github.com/lsd-consulting/lsd-distributed-firestore-connector/pulls)
+
+##### [lsd-distributed-data-access](https://github.com/lsd-consulting/lsd-distributed-data-access)
+[![CI](https://github.com/lsd-consulting/lsd-distributed-data-access/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/lsd-consulting/lsd-distributed-data-access/actions/workflows/ci.yml)
+[![Nightly Build](https://github.com/lsd-consulting/lsd-distributed-data-access/actions/workflows/nightly.yml/badge.svg?branch=main)](https://github.com/lsd-consulting/lsd-distributed-data-access/actions/workflows/nightly.yml)
+[![GitHub release](https://img.shields.io/github/release/lsd-consulting/lsd-distributed-data-access)](https://github.com/lsd-consulting/lsd-distributed-data-access/releases)
+[![Maven](https://img.shields.io/maven-central/v/io.github.lsd-consulting/lsd-distributed-data-access)](https://search.maven.org/search?q=g:%22io.github.lsd-consulting%22%20AND%20a:%22lsd-distributed-data-access%22)
+![Codecov](https://img.shields.io/codecov/c/github/lsd-consulting/lsd-distributed-data-access)
+[![PRs](https://img.shields.io/github/issues-pr/lsd-consulting/lsd-distributed-data-access?label=PRs)](https://github.com/lsd-consulting/lsd-distributed-data-access/pulls)
+
+##### [lsd-distributed-mongodb-access](https://github.com/lsd-consulting/lsd-distributed-mongodb-access)
+[![CI](https://github.com/lsd-consulting/lsd-distributed-mongodb-access/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/lsd-consulting/lsd-distributed-mongodb-access/actions/workflows/ci.yml)
+[![Nightly Build](https://github.com/lsd-consulting/lsd-distributed-mongodb-access/actions/workflows/nightly.yml/badge.svg?branch=main)](https://github.com/lsd-consulting/lsd-distributed-mongodb-access/actions/workflows/nightly.yml)
+[![GitHub release](https://img.shields.io/github/release/lsd-consulting/lsd-distributed-mongodb-access)](https://github.com/lsd-consulting/lsd-distributed-mongodb-access/releases)
+[![Maven](https://img.shields.io/maven-central/v/io.github.lsd-consulting/lsd-distributed-mongodb-access)](https://search.maven.org/search?q=g:%22io.github.lsd-consulting%22%20AND%20a:%22lsd-distributed-mongodb-access%22)
+![Codecov](https://img.shields.io/codecov/c/github/lsd-consulting/lsd-distributed-mongodb-access)
+[![PRs](https://img.shields.io/github/issues-pr/lsd-consulting/lsd-distributed-mongodb-access?label=PRs)](https://github.com/lsd-consulting/lsd-distributed-mongodb-access/pulls)
 
 
 ---
