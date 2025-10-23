@@ -89,7 +89,7 @@
 [![CI](https://github.com/lsd-consulting/lsd-distributed-generator/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/lsd-consulting/lsd-distributed-generator/actions/workflows/ci.yml)
 [![Nightly Build](https://github.com/lsd-consulting/lsd-distributed-generator/actions/workflows/nightly.yml/badge.svg?branch=main)](https://github.com/lsd-consulting/lsd-distributed-generator/actions/workflows/nightly.yml)
 [![GitHub release](https://img.shields.io/github/release/lsd-consulting/lsd-distributed-generator)](https://github.com/lsd-consulting/lsd-distributed-generator/releases)
-[![Maven](https://img.shields.io/maven-central/v/io.github.lsd-consulting/lsd-distributed-generator)](https://search.maven.org/search?q=g:%22io.github.lsd-consulting%22%20AND%20a:%22lsd-distributed-generator%22)
+![Maven Central Version](https://img.shields.io/maven-central/v/io.github.lsd-consulting/lsd-distributed-generator?filter=*.*.*)
 ![Codecov](https://img.shields.io/codecov/c/github/lsd-consulting/lsd-distributed-generator)
 [![PRs](https://img.shields.io/github/issues-pr/lsd-consulting/lsd-distributed-generator?label=PRs)](https://github.com/lsd-consulting/lsd-distributed-generator/pulls)
 
