@@ -17,7 +17,15 @@
 ![Codecov](https://img.shields.io/codecov/c/github/lsd-consulting/lsd-cucumber)
 [![PRs](https://img.shields.io/github/issues-pr/lsd-consulting/lsd-cucumber?label=PRs)](https://github.com/lsd-consulting/lsd-cucumber/pulls)
 
-##### [lsd-junit5](https://github.com/lsd-consulting/lsd-junit5)
+##### [lsd-junit-jupiter](https://github.com/lsd-consulting/lsd-junit-jupiter)
+[![CI](https://github.com/lsd-consulting/lsd-junit-jupiter/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/lsd-consulting/lsd-junit-jupiter/actions/workflows/ci.yml)
+[![Nightly](https://github.com/lsd-consulting/lsd-junit-jupiter/actions/workflows/nightly.yml/badge.svg?branch=main)](https://github.com/lsd-consulting/lsd-junit-jupiter/actions/workflows/nightly.yml)
+[![GitHub release](https://img.shields.io/github/release/lsd-consulting/lsd-junit-jupiter)](https://github.com/lsd-consulting/lsd-junit-jupiter/releases)
+[![Maven](https://img.shields.io/maven-central/v/io.github.lsd-consulting/lsd-junit-jupiter.svg)](https://search.maven.org/search?q=g:%22io.github.lsd-consulting%22%20AND%20a:%22lsd-junit-jupiter%22)
+![Codecov](https://img.shields.io/codecov/c/github/lsd-consulting/lsd-junit-jupiter)
+[![PRs](https://img.shields.io/github/issues-pr/lsd-consulting/lsd-junit-jupiter?label=PRs)](https://github.com/lsd-consulting/lsd-junit-jupiter/pulls)
+
+##### [lsd-junit5](https://github.com/lsd-consulting/lsd-junit5) (deprecated, use [lsd-junit-jupiter](https://github.com/lsd-consulting/lsd-junit-jupiter))
 [![CI](https://github.com/lsd-consulting/lsd-junit5/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/lsd-consulting/lsd-junit5/actions/workflows/ci.yml)
 [![Nightly](https://github.com/lsd-consulting/lsd-junit5/actions/workflows/nightly.yml/badge.svg?branch=main)](https://github.com/lsd-consulting/lsd-junit5/actions/workflows/nightly.yml)
 [![GitHub release](https://img.shields.io/github/release/lsd-consulting/lsd-junit5)](https://github.com/lsd-consulting/lsd-junit5/releases)
